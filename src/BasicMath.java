@@ -3,6 +3,7 @@ class BasicMath
 
     public int sum(int a, int b)
     {
+	b=a*a;
         return a + b;
     }
 
